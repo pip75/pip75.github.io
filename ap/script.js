@@ -1,5 +1,5 @@
 /** you can edit the countdown messages below **/
-var countDownDate = new Date("May 10, 2024 00:00:00").getTime();
+var countDownDate = new Date("May 10, 2024 8:00:00").getTime();
 var countdownMessage = "good luck";
 /** you can edit the countdown messages above **/
 
